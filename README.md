@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Testing out the basics:
+- git status
+- git add .
+- git commit -m ""
+
 <!--
 **coderadinho/coderadinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
