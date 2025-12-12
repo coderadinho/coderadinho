@@ -2,8 +2,9 @@
 
 Testing out the basics:
 - git status
-- git add .
-- git commit -m ""
+- git add . (Staging the photo)
+- git commit -m "message" (Taking the picture)
+- git push (Sharing the photo)
 
 <!--
 **coderadinho/coderadinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
