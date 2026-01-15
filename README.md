@@ -1,11 +1,5 @@
 ## Hi there 👋
 
-Testing out the basics:
-- git status
-- git add . (Staging the photo)
-- git commit -m "message" (Taking the picture)
-- git push (Sharing the photo)
-
 ### Some plots:
 **Visualising Income in Namibia**
 ![Visualising Income in Namibia](Plots/namibia_lfs_income.png)
